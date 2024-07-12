@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahil Thaker
+- 👋 Hi, I’m @sahilshaligram
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SceneKit, ARKit, Reality Kit
 - 💞️ I’m looking to collaborate on 3D Game in iOS
